@@ -1,0 +1,6 @@
+void setup() {
+  DDRB = 0b00111000;
+  DDRD = 0b00000000;
+  PORTD = 0b00011100;
+  PORTB = 0b00000000;
+}
